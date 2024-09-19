@@ -29,8 +29,8 @@ actuadores	| Aprendizaje
 
 #abtraccion del conocimiento 
 
-# modelo matematico 
+## modelo matematico 
 es un modelo que se define utilizando leguaje algebraico utiliza variables tangibles o fisicas, intangibles 
 
-#UNIDAD DOS : Representacion del conocimiento 
+# UNIDAD DOS : Representacion del conocimiento 
 Espistemoloogia : es una ciencia que representa 
