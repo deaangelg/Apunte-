@@ -24,3 +24,5 @@ Información: info – matio, algo que se forma, representación que se forma
 ##  Representación de un agente 
 Sensores |	Razon 
 actuadores	| Aprendizaje 
+
+#
