@@ -3,6 +3,8 @@
 Agente inteligente basado en conocimie0nto 
 ## Que es la ingenieria del conocimiento? 
 Forma de organizar y recabar datos y conocimientos
+## conocimiento 
+informacio organizada 
 ## Arquitectura de un sistema experto 
 *Motor de inferencía
 *Base de conocimientos
@@ -25,4 +27,10 @@ Información: info – matio, algo que se forma, representación que se forma
 Sensores |	Razon 
 actuadores	| Aprendizaje 
 
-#
+#abtraccion del conocimiento 
+
+# modelo matematico 
+es un modelo que se define utilizando leguaje algebraico utiliza variables tangibles o fisicas, intangibles 
+
+#UNIDAD DOS : Representacion del conocimiento 
+Espistemoloogia : es una ciencia que representa 
