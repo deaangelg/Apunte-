@@ -34,3 +34,4 @@ es un modelo que se define utilizando leguaje algebraico utiliza variables tangi
 
 # UNIDAD DOS : Representacion del conocimiento 
 Espistemoloogia : es una ciencia que representa 
+conocimiento a traves de los sentidos y conocimientos a travez de la razon 
